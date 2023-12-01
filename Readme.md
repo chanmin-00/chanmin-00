@@ -1,7 +1,8 @@
 ### Hi there. How are you? I'm fine thank and you?
 ### I'm chanmin👋
 
-### UNIVERSITY : Soongsil University 20
+# HIGH-Shcool : Geochang highschool 🏨
+# UNIVERSITY : Soongsil University Software 20 🏬
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanmin-00&show_icons=true&theme=radical)
 
