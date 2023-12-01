@@ -6,7 +6,7 @@ Soongsil University Software 20 🏬
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanmin-00&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/jjw421412/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjw421412)](https://solved.ac/jjw421412/)
 
 ### **TECH** 🖥️
 <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
