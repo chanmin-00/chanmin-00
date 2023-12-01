@@ -8,7 +8,8 @@ Soongsil University Software 20 🏬
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanmin-00&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjw421412)](https://solved.ac/jjw421412/)
 
-### **TECH** 🖥️
+## **TECH** 🖥️
+Techs that I've used at least once
 <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
