@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there. How are you? I'm fine thank and you?
+### I'm chanmin👋
 
 <!--
 **chanmin-00/chanmin-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
