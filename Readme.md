@@ -1,13 +1,16 @@
-### Hi. How are you? I'm fine thank and you? I'm chanmin👋
+### I'm chanmin👋
 
-### Geochang highschool 66🏨
-### Soongsil University Software 20 🏬
+
+Geochang highschool 66🏨
+Soongsil University Software 20 🏬
 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanmin-00&show_icons=true&theme=radical)
 
+### Tech
 <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+ <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
 <!--
 **chanmin-00/chanmin-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
