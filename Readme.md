@@ -1,20 +1,20 @@
-## 👋 WELCOME I'm chanmin 👋
+## 👋 WELCOME I'm chanmin 
 
 Geochang highschool 66🏨<br/>
 Soongsil University Software 20 🏬
 
-## 💡 Most Used Languages & Github Stat💡
+## 💡 Most Used Languages & Github Stat
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanmin-00&layout=compact)](https://github.com/chanmin-00/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanmin-00&show_icons=true&theme=radical)
-## 💎Baekjoon Rank 💎
+## 💎Baekjoon Rank 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjw421412)](https://solved.ac/jjw421412/)
 
-## 🖥️ **TECH** 🖥️
+## 🖥️ **TECH** 
 **Techs that I've used at least once<br/>**
 <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
-## 👩‍👧‍👦 **Project** 👩‍👧‍👦
+## 👩‍👧‍👦 **Project** 
 **🏬[AllClear - 수간신청 도우미](https://github.com/AC-corporation/server)**
 <!--
 **chanmin-00/chanmin-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
