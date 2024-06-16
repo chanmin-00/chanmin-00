@@ -15,7 +15,7 @@ Soongsil University Software 20 🏬
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 
 ## 👩‍👧‍👦 **Project** 
-**🏬[AllClear - 수간신청 도우미](https://github.com/AC-corporation/server)**
+** 🏬[AllClear - 수간신청 도우미](https://github.com/AC-corporation/server)**
 <!--
 **chanmin-00/chanmin-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
