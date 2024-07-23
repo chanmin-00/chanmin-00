@@ -6,8 +6,6 @@ Soongsil University Software 20 🏬
 ## 💡 Most Used Languages & Github Stat
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanmin-00&layout=compact)](https://github.com/chanmin-00/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanmin-00&show_icons=true&theme=radical)
-## 💎Baekjoon Rank 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjw421412)](https://solved.ac/jjw421412/)
 
 ## 🖥️ **TECH** 
 **Techs that I've used at least once<br/>**
