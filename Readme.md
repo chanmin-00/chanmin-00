@@ -19,6 +19,8 @@ Soongsil University Software 20 🏬
 **🫒 [SSU-Plector](https://github.com/SSU-Plector)**
 
 ## 📒 **Blog** 
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://chanmin-study-log.notion.site/Chanmin-study-log-45d0e52ee0d04ca99db79b96c7ff07c9)
+
 
 <!--
 **chanmin-00/chanmin-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
