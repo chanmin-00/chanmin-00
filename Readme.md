@@ -17,6 +17,9 @@ Soongsil University Software 20 🏬
 **🏬 [AllClear - 수간신청 도우미](https://github.com/AC-corporation/server)**
 
 **🫒 [SSU-Plector](https://github.com/SSU-Plector)**
+
+## 📒 **Blog** 
+
 <!--
 **chanmin-00/chanmin-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
