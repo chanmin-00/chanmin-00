@@ -18,14 +18,16 @@
 
 
 ## 👩‍👧‍👦 **Project** 
-> 2023 </br>
-[AllClear](https://github.com/AC-corporation/server) 숭실대학교 수강신청 도움 서비스 [백엔드 및 데이터 크롤링 파트] (2023.09-2024.02)
+**2023**
+> [AllClear](https://github.com/AC-corporation/server) 숭실대학교 수강신청 도움 서비스 [백엔드 및 데이터 크롤링 파트] (2023.09-2024.02)
 
 
-> 2024 </br>
-[SSU-Plector](https://github.com/SSU-Plector) 숭실대학교 IT대 학생들을 위한 이력 기반 프로젝트 아카이빙 서비스 [백엔드 파트] (2024.03-2024.08) </br> 
-[뭐든 대여](https://github.com/FlySamryong/Samryongs-backend) 신뢰 기반의 물품 대여 플랫폼 (2024.08~) [백엔드 파트]</br>
-경제 지식 학습 애플리케이션 (2024.09~)
+**2024**
+> [SSU-Plector](https://github.com/SSU-Plector) 숭실대학교 IT대 학생들을 위한 이력 기반 프로젝트 아카이빙 서비스 [백엔드 파트] (2024.03-2024.08)
+
+> [뭐든 대여](https://github.com/FlySamryong/Samryongs-backend) 신뢰 기반의 물품 대여 플랫폼 (2024.08~) [백엔드 파트]</br>
+
+> 경제 지식 학습 애플리케이션 (2024.09~)
 
 
 ## 🧩 **Experience** 
