@@ -1,7 +1,4 @@
 
-<img width="690" alt="스크린샷 2024-10-07 오후 2 20 08" src="https://github.com/user-attachments/assets/1396e3cd-6089-403a-b00f-d3a7902c96d7">
-
-
 ## 👋 School
 
 - Geochang highschool 66기<br/>
