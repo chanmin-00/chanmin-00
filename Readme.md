@@ -32,7 +32,6 @@
 
 ## 🧩 **Experience** 
 - 42서울 라피신 과정 수료 (2023.07-2023.08)
-- 2024 SCON(Soongsil Programming Contest) 참가 (2024.05)
 - SQLD 국가공인 자격증 취득 (2024.09)
 - COTATO 10기 백엔드 멤버 (2024.09~)
 
