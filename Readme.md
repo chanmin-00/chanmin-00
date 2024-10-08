@@ -27,7 +27,7 @@
 **2024**
 > [SSU-Plector](https://github.com/SSU-Plector) 숭실대학교 IT대 학생들을 위한 이력 기반 프로젝트 아카이빙 서비스 (2024.03-2024.08) [백엔드 파트]
 
-> [뭐든 대여](https://github.com/FlySamryong/Samryongs-backend) 신뢰 기반의 물품 대여 플랫폼 (2024.08~) [백엔드 파트]</br>
+> [뭐든 대여](https://github.com/FlySamryong/Samryongs-backend) P2P 기반의 물품 대여 플랫폼 (2024.08~) [백엔드 파트]</br>
 
 > 경제 지식 학습 애플리케이션 (2024.09~)
 
