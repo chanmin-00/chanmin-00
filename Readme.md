@@ -4,8 +4,6 @@
 - Geochang highschool 66기<br/>
 - Soongsil University Software 20학번
 
-## 💡 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanmin-00&layout=compact)
 
 ## 🖥️ **Tech/FrameWork** 
 > 사용해보거나 경험해봤던 기술 스택과 프레임워크를 나열했습니다.
