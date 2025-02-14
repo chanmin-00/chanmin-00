@@ -39,7 +39,7 @@
 - 2024년도 숭실대학교 소프트웨어 공모전 총장상 수상 (2024.08)
 
 ## 📒 **Blog** 
-[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://chanmin-study-log.notion.site/Chanmin-study-log-45d0e52ee0d04ca99db79b96c7ff07c9) [<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>](https://velog.io/@jjw421412/posts)
+[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://chanmin-study-log.notion.site/Chanmin-study-log-45d0e52ee0d04ca99db79b96c7ff07c9) [<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logoColor=white"/>](https://chanmin-tstory.tistory.com/)
 
 
 
