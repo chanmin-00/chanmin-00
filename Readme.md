@@ -27,7 +27,7 @@
 
 > [뭐든 대여](https://github.com/FlySamryong/Samryongs-backend) P2P 기반의 물품 대여 플랫폼 (2024.08~) [백엔드 파트]</br>
 
-> [Ripple](https://github.com/IT-Cotato/10th-Economic-Learning-BE) 경제 지식 학습 애플리케이션 (2024.09~) [백엔드 파트]</br>
+> [Ripple](https://github.com/IT-Cotato/10th-Economic-Learning-BE) 경제 지식 학습 애플리케이션 (2024.09~2025.02) [백엔드 파트]</br>
 
 
 ## 🧩 **Experience** 
