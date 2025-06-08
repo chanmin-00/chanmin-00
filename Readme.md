@@ -14,22 +14,6 @@
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
-
-
-## 👩‍👧‍👦 **Project** 
-**2023**
-> [AllClear](https://github.com/AC-corporation/server) 숭실대학교 수강신청 도움 서비스 (2023.09-2024.02) [백엔드 및 데이터 크롤링 파트]
-
-
-**2024**
-> [SSU-Plector](https://github.com/SSU-Plector) 숭실대학교 IT대 학생들을 위한 이력 기반 프로젝트 아카이빙 서비스 (2024.03-2024.08) [백엔드 파트]
-
-> [뭐든 대여](https://github.com/FlySamryong/Samryongs-backend) P2P 기반의 물품 대여 플랫폼 (2024.08~) [백엔드 파트]</br>
-
-> [Ripple](https://github.com/IT-Cotato/10th-Economic-Learning-BE) 경제 지식 학습 애플리케이션 (2024.09~2025.02) [백엔드 파트]</br>
-
-
 ## 🧩 **Experience** 
 - 42서울 라피신 과정 수료 (2023.07-2023.08)
 - SQLD 국가공인 자격증 취득 (2024.09)
@@ -40,7 +24,8 @@
 - 2024년도 숭실대학교 소프트웨어 공모전 총장상 수상 (2024.08)
 
 ## 📒 **Blog** 
-[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://chanmin-study-log.notion.site/Chanmin-study-log-45d0e52ee0d04ca99db79b96c7ff07c9) [<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logoColor=white"/>](https://chanmin-tstory.tistory.com/)
+- (https://chanmin-tstory.tistory.com/)
+- (https://github.com/chanmin-00/MyDevStudy)
 
 
 
