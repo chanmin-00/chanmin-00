@@ -15,10 +15,11 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
 
 ## 🧩 **Experience** 
-- 42서울 라피신 과정 수료 (2023.07-2023.08)
+- 42서울 라피신 과정 수료 (2023.07~08)
 - SQLD 국가공인 자격증 취득 (2024.09)
 - COTATO 10/11기 백엔드 멤버 (2024.09~)
-- 선도소프트 인턴 (2025.03~)
+- COTATO 11기 교육팀 (2025.03~)
+- 선도소프트 인턴 (2025.03~06)
 
 ## 🏅 **Awards**   
 - 2024년도 숭실대학교 소프트웨어 공모전 총장상 수상 (2024.08)
