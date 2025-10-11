@@ -14,12 +14,14 @@
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
 
-## 🧩 **Experience** 
+## 🧩 **Experience**
 - 42서울 라피신 과정 수료 (2023.07~08)
+- IT 연합 동아리 COTATO 10/11/12기 백엔드 멤버 (2024.09~)
+- IT 연합 동아리 COTATO 11기 교육팀 (2025.03~)
+- 선도소프트 현장실습 인턴 (2025.03~06)
+
+## 🧾 **Certification**
 - SQLD 국가공인 자격증 취득 (2024.09)
-- COTATO 10/11기 백엔드 멤버 (2024.09~)
-- COTATO 11기 교육팀 (2025.03~)
-- 선도소프트 인턴 (2025.03~06)
 - 정보처리기사 (2025.09)
 - 리눅스 마스터 2급 (2025.10)
 
